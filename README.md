@@ -1,3 +1,2 @@
-# dsh-superagent-playground
-本仓库是 dsh-superagent 的试用沙盒，用于试验和验证其自动化协作能力。
-dsh-superagent trial sandbox
+# hello world
+鏈粨搴撴槸 dsh-superagent 鐨勮瘯鐢ㄦ矙鐩掞紝鐢ㄤ簬璇曢獙鍜岄獙璇佸叾鑷姩鍖栧崗浣滆兘鍔涖€俙ndsh-superagent trial sandbox
